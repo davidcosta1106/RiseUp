@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Rise_Up_API.props" />
+</Project>

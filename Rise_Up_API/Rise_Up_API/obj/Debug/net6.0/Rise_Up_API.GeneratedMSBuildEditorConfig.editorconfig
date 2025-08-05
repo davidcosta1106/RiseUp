@@ -1,0 +1,41 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Rise_Up_API
+build_property.RootNamespace = Rise_Up_API
+build_property.ProjectDir = C:\Users\alexandre\Desktop\Rise_Up\Rise_Up_API\Rise_Up_API\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\alexandre\Desktop\Rise_Up\Rise_Up_API\Rise_Up_API
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/alexandre/Desktop/Rise_Up/Rise_Up_API/Rise_Up_API/Views/Collection_Points/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvbl9Qb2ludHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alexandre/Desktop/Rise_Up/Rise_Up_API/Rise_Up_API/Views/Collection_Points/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvbl9Qb2ludHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alexandre/Desktop/Rise_Up/Rise_Up_API/Rise_Up_API/Views/Collection_Points/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvbl9Qb2ludHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alexandre/Desktop/Rise_Up/Rise_Up_API/Rise_Up_API/Views/Collection_Points/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvbl9Qb2ludHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alexandre/Desktop/Rise_Up/Rise_Up_API/Rise_Up_API/Views/Collection_Points/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvbl9Qb2ludHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alexandre/Desktop/Rise_Up/Rise_Up_API/Rise_Up_API/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

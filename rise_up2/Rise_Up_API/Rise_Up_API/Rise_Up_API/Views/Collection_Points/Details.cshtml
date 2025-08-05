@@ -1,0 +1,78 @@
+﻿@model Rise_Up_API.Modules.Collection_Points
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Collection_Points</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.collection_point_name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.collection_point_name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.postal_code)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.postal_code)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.district)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.district)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.city)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.city)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.country)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.country)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.street)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.street)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.number_door)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.number_door)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.inicial_hour)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.inicial_hour)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.end_hour)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.end_hour)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.week_days)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.week_days)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.id_collection_point">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
